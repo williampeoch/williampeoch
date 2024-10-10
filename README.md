@@ -1,9 +1,9 @@
 ### Hi there! 👋 I'm William Peoc'h
 
-I'm a third-year engineering student at **INSA Lyon**, specializing in **Bioinformatics**. My passion lies in leveraging **machine learning** and **data science** to solve real-world healthcare problems. With a solid foundation in **computer science** and a keen interest in **AI**, I'm eager to contribute to innovative projects that merge bioinformatics with artificial intelligence.
+I'm a third-year engineering student at **INSA Lyon**, specializing in **Bioinformatics**. My passion lies in leveraging **machine learning** and **data science** to solve real-world healthcare problems. With a solid foundation in **computer science** and **AI**, I'm eager to contribute to innovative projects that merge bioinformatics with artificial intelligence.
 
 - 🔬 **Current Focus**: Developing AI models for healthcare applications.
-- 💻 **Skills**: Deep Learning, PyTorch, Python, React.js, Symfony.
+- 💻 **Skills**: Deep Learning, PyTorch, Tensorflow, Python, React.js, Symfony.
 - 🌟 **Recent Projects**: 
   - **Mistral ASCII Art**: Fine-tuned the Mistral-7b model to generate ASCII art.
   - **Diabetic Retinopathy Detection**: Developed models for early diagnosis and lesion highlighting.
