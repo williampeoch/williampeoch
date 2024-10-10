@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm William Peoc'h</h1>
-<h3 align="center">🧬 Biology | 💉 Medicine | 🤖 Artificial Intelligence </h3>
-<h3 align="center">With a deep passion for these domains, I've immersed myself in biology and dedicated a year to the study of medicine. Currently in my second year of computer science specialized in datascience and web development. I am enthusiastically driven by the prospect of merging these disciplines. My ambition is to leverage the power of artificial intelligence to synergize biology and medicine, paving the way for innovative solutions in healthcare. 🌱🧠💻</h3>
+### Hi there! 👋 I'm William Peoc'h
+
+I'm a third-year engineering student at **INSA Lyon**, specializing in **Bioinformatics**. My passion lies in leveraging **machine learning** and **data science** to solve real-world healthcare problems. With a solid foundation in **computer science** and a keen interest in **AI**, I'm eager to contribute to innovative projects that merge bioinformatics with artificial intelligence.
+
+- 🔬 **Current Focus**: Developing AI models for healthcare applications.
+- 💻 **Skills**: Deep Learning, PyTorch, Python, React.js, Symfony.
+- 🌟 **Recent Projects**: 
+  - **Mistral ASCII Art**: Fine-tuned the Mistral-7b model to generate ASCII art.
+  - **Diabetic Retinopathy Detection**: Developed models for early diagnosis and lesion highlighting.
+- 📫 **Connect with me**: LinkedIn
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williampeoch&label=Profile%20views&color=0e75b6&style=flat" alt="williampeoch" /> </p>
-
-- 🌱 I’m currently learning **computer vision and web app development**
-
-- 👯 I’m looking to collaborate on **innovative AI projects**
-
-- 📫 How to reach me **peoch.william44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
