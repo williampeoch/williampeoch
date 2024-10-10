@@ -7,8 +7,6 @@ I'm a third-year engineering student at **INSA Lyon**, specializing in **Bioinfo
 - 🌟 **Recent Projects**: 
   - **Mistral ASCII Art**: Fine-tuned the Mistral-7b model to generate ASCII art.
   - **Diabetic Retinopathy Detection**: Developed models for early diagnosis and lesion highlighting.
-- 📫 **Connect with me**: LinkedIn
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williampeoch&label=Profile%20views&color=0e75b6&style=flat" alt="williampeoch" /> </p>
 
