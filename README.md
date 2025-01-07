@@ -5,10 +5,10 @@ I'm a third-year engineering student at **INSA Lyon**, specializing in **Bioinfo
 - 🔬 **Current Focus**: Developing AI models for healthcare applications.
 - 💻 **Skills**: Deep Learning, PyTorch, Tensorflow, Python, Next.js, React.js, Symfony.
 - 🌟 **Recent Projects**:
-  - **microAlan**: Mistral x Alan hackathon project, 1st place, built in under 24h.
-  - **X-Raystral**: AI model that generates medical reports from chest X-rays. A fine-tuned Pixtral-12B model for Medical Report Generation.
-  - **Mistral ASCII Art**: Fine-tuned the Mistral-7b model to generate ASCII art.
-  - **Diabetic Retinopathy Detection**: Developed classification and segmentation models for diabetic retinopathy detection and lesion highlighting on fundus images, enabling earlier diagnosis and improved patient outcomes. Successfully integrated the models into a C# application for real-world use.
+  - **microAlan**: Mistral x Alan hackathon project, 1st place, built in under 24h. [View Project](https://github.com/vdeva/micro-alan)
+  - **X-Raystral**: AI model that generates medical reports from chest X-rays. A fine-tuned Pixtral-12B model for Medical Report Generation. [View Project](https://huggingface.co/williampeoch/cxr-pixtral)
+  - **Mistral ASCII Art**: Fine-tuned the Mistral-7b model to generate ASCII art. [View Project](https://github.com/TopAgrume/mistral_hackathon)
+  - **Diabetic Retinopathy Detection**: Classification and segmentation models to detect and localize lesions in fundus images, integrated into a C# app for early diagnosis.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williampeoch&label=Profile%20views&color=0e75b6&style=flat" alt="williampeoch" /> </p>
 
