@@ -9,6 +9,7 @@ I'm a third-year engineering student at **INSA Lyon**, specializing in **Bioinfo
   - **X-Raystral**: AI model that generates medical reports from chest X-rays. A fine-tuned Pixtral-12B model for Medical Report Generation. [View Project](https://huggingface.co/williampeoch/cxr-pixtral)
   - **Mistral ASCII Art**: Fine-tuned the Mistral-7b model to generate ASCII art. [View Project](https://github.com/TopAgrume/mistral_hackathon)
   - **Diabetic Retinopathy Detection**: Classification and segmentation models to detect and localize lesions in fundus images, integrated into a C# app for early diagnosis.
+  - **Axonet**: A neural network implementation from scratch in pure Python. [View Project](https://github.com/williampeoch/axonet)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williampeoch&label=Profile%20views&color=0e75b6&style=flat" alt="williampeoch" /> </p>
 
