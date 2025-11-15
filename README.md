@@ -25,45 +25,6 @@ Medical AI · Representation Learning · Multimodal Learning · Quantitative Bio
 - **IUT de Reims (URCA)** – Bachelor in Computer Science (2022–2024)  
   Focus: algorithms, software engineering, databases, applied ML.
 
----
-
-## 🔬 Research & Industry Experience
-
-### INRIA – Machine Learning Research Intern · Lyon, France  
-*Jun 2025 – Aug 2025*  
-- Fine-tuned **transformer-based models** (BERT, LLMs) for biomedical text classification  
-- Built **NER pipelines** to extract therapeutic targets from biomedical & clinical literature  
-- Curated **large-scale biomedical datasets** and ran experiments on **HPC (Grid’5000)**  
-- Worked at the interface of **NLP**, **ML theory**, and **biomedical applications**
-
-### Axon’ Cable (Medical Division) – Machine Learning Intern · Reims, France  
-*Apr 2024 – Jun 2024*  
-- Designed **CNN & U-Net architectures from scratch** for diabetic retinopathy detection & lesion segmentation  
-- Achieved **86% lesion classification accuracy** with careful preprocessing and dataset harmonization  
-- Integrated the full **ML pipeline into a C# desktop application** used by ophthalmologists  
-- Added a **RAG module** to expose model outputs with interpretable, contextual information
-
----
-
-## 💻 Selected Projects
-
-- **AI Medical Assistant**  
-  Full-stack assistant for health concerns with **chat & voice interface**, basic image diagnostics and LLM-based explanations.  
-  Mix of **ML engineering**, prompt design and product thinking.
-
-- **Biohacking / Longevity Platform**  
-  **Next.js SaaS** to track biomarkers & habits with an **AI coach** for personalized recommendations.  
-  Focus on **data modeling**, metrics, and time-series–like reasoning.
-
-- **IP Paralegal Agent (LLM + RAG)**  
-  Agentic RAG system focused on **intellectual property**, automating formal tasks and client interaction.  
-  Worked on **retrieval quality**, prompt routing and evaluation.
-
-- **ASCII Art Generator (LLM Fine-tuning)**  
-  Fine-tuned **Mistral-7B** on a custom dataset to generate consistent ASCII art from text prompts.  
-  Involved **dataset design**, **loss shaping**, and evaluation of generative quality.
-
----
 
 ## 🏆 Awards & Hackathons
 
