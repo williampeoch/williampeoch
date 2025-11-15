@@ -53,7 +53,7 @@ Medical AI · Representation Learning · Multimodal Learning · Quantitative Bio
 
 ## 🌐 Links & Contact
 
-- 🌐 Website: [williampeoch.com](https://williampeoch.com)  
+- 🌐 Website: [williampeoch.com](https://williampeoch.me)  
 - 🐙 GitHub: William Peoc'h  
 - 💼 LinkedIn: William Peoc'h  
 - ✉️ Email: [william.peoch@insa-lyon.fr](mailto:william.peoch@insa-lyon.fr)
