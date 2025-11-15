@@ -1,23 +1,98 @@
-### Hi there! 👋 I'm William Peoc'h
+# William Peoc'h
 
-I'm a third-year engineering student at **INSA Lyon**, specializing in **Bioinformatics**. My passion lies in leveraging **machine learning** and **data science** to solve real-world healthcare problems. With a solid foundation in **computer science** and **AI**, I'm eager to contribute to innovative projects that merge bioinformatics with artificial intelligence.
+**Maths & Machine Learning @ City University of Hong Kong · MSc Bioinformatics & Modeling @ INSA Lyon**  
+Medical AI · Representation Learning · Multimodal Learning · Quantitative Biology
 
-- 🔬 **Current Focus**: Developing AI models for healthcare applications.
-- 💻 **Skills**: Deep Learning, PyTorch, Tensorflow, Python, Next.js, React.js, Symfony.
-- 🌟 **Recent Projects**:
-  - **microAlan**: Mistral x Alan hackathon project, 1st place, built in under 24h. [View Project](https://github.com/vdeva/micro-alan)
-  - **X-Raystral**: AI model that generates medical reports from chest X-rays. A fine-tuned Pixtral-12B model for Medical Report Generation. [View Project](https://huggingface.co/williampeoch/cxr-pixtral)
-  - **Mistral ASCII Art**: Fine-tuned the Mistral-7b model to generate ASCII art. [View Project](https://github.com/TopAgrume/mistral_hackathon)
-  - **Diabetic Retinopathy Detection**: Classification and segmentation models to detect and localize lesions in fundus images, integrated into a C# app for early diagnosis.
-  - **Axonet**: A neural network implementation from scratch in pure Python. [View Project](https://github.com/williampeoch/axonet)
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=williampeoch&label=Profile%20views&color=0e75b6&style=flat" alt="williampeoch" /> </p>
+## 👋 About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/william-peoc-h-ba208a268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-peoc-h-ba208a268" height="30" width="40" /></a>
-<a href="https://kaggle.com/peochwilliam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="peochwilliam" height="30" width="40" /></a>
-</p>
+- 📍 Currently studying **Mathematics & Machine Learning** at **City University of Hong Kong (CityU HK)**  
+- 🎓 MSc in **Bioinformatics & Modeling** at **INSA Lyon** (bio + ML + quantitative methods)  
+- 🧠 Strong interest in **theoretical ML**, **representation learning**, and **multimodal models** for biomedical data  
+- 🌱 I like projects that sit at the intersection of **rigorous maths**, **ML engineering**, and **health/biology**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+---
+
+## 🎓 Education
+
+- **City University of Hong Kong (CityU HK)** – Exchange, **Mathematics & Machine Learning** (2025–2026)  
+  Focus: probability & stochastic processes, optimization, statistical learning, deep learning, numerical analysis.
+
+- **INSA Lyon** – MSc in **Bioinformatics & Modeling** (2024–2027)  
+  Focus: bioinformatics, systems biology, statistics, machine learning for biomedical data.
+
+- **IUT de Reims (URCA)** – Bachelor in Computer Science (2022–2024)  
+  Focus: algorithms, software engineering, databases, applied ML.
+
+---
+
+## 🔬 Research & Industry Experience
+
+### INRIA – Machine Learning Research Intern · Lyon, France  
+*Jun 2025 – Aug 2025*  
+- Fine-tuned **transformer-based models** (BERT, LLMs) for biomedical text classification  
+- Built **NER pipelines** to extract therapeutic targets from biomedical & clinical literature  
+- Curated **large-scale biomedical datasets** and ran experiments on **HPC (Grid’5000)**  
+- Worked at the interface of **NLP**, **ML theory**, and **biomedical applications**
+
+### Axon’ Cable (Medical Division) – Machine Learning Intern · Reims, France  
+*Apr 2024 – Jun 2024*  
+- Designed **CNN & U-Net architectures from scratch** for diabetic retinopathy detection & lesion segmentation  
+- Achieved **86% lesion classification accuracy** with careful preprocessing and dataset harmonization  
+- Integrated the full **ML pipeline into a C# desktop application** used by ophthalmologists  
+- Added a **RAG module** to expose model outputs with interpretable, contextual information
+
+---
+
+## 💻 Selected Projects
+
+- **AI Medical Assistant**  
+  Full-stack assistant for health concerns with **chat & voice interface**, basic image diagnostics and LLM-based explanations.  
+  Mix of **ML engineering**, prompt design and product thinking.
+
+- **Biohacking / Longevity Platform**  
+  **Next.js SaaS** to track biomarkers & habits with an **AI coach** for personalized recommendations.  
+  Focus on **data modeling**, metrics, and time-series–like reasoning.
+
+- **IP Paralegal Agent (LLM + RAG)**  
+  Agentic RAG system focused on **intellectual property**, automating formal tasks and client interaction.  
+  Worked on **retrieval quality**, prompt routing and evaluation.
+
+- **ASCII Art Generator (LLM Fine-tuning)**  
+  Fine-tuned **Mistral-7B** on a custom dataset to generate consistent ASCII art from text prompts.  
+  Involved **dataset design**, **loss shaping**, and evaluation of generative quality.
+
+---
+
+## 🏆 Awards & Hackathons
+
+- 🥇 **Mistral AI × Alan Hackathon – 1st Place & Best Pitch**  
+  Built an AI medical assistant with **image diagnostics** and **voice/chat** interface (150+ participants).  
+
+- 🧬 **Paris Bio × AI Hackathon**  
+  Fine-tuned **Pixtral-12B** on chest X-ray datasets to build a **medical report generation** system.  
+
+- ⚖️ **LLM × Law Hackathon**  
+  Developed an **IP-focused paralegal RAG system** using LLMs.  
+
+- 🎨 **Mistral Paris Hackathon**  
+  Fine-tuned **Mistral-7B** to generate **ASCII art**.  
+
+---
+
+## 🛠️ Technical Skills
+
+- **Maths & ML**: Probability, statistics, linear algebra, optimization, deep learning, transformers, generative models  
+- **Bioinformatics**: Genomics, transcriptomics, NGS, RNA-seq, sequence analysis  
+- **Languages**: Python, R, TypeScript, C#, SQL  
+- **Ecosystem**: PyTorch, TensorFlow, HuggingFace, scikit-learn, NumPy, pandas, Docker, Git, Linux  
+
+---
+
+## 🌐 Links & Contact
+
+- 🌐 Website: [williampeoch.com](https://williampeoch.com)  
+- 🐙 GitHub: William Peoc'h  
+- 💼 LinkedIn: William Peoc'h  
+- ✉️ Email: [william.peoch@insa-lyon.fr](mailto:william.peoch@insa-lyon.fr)
