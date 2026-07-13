@@ -1,59 +1,46 @@
 # William Peoc'h
 
-**Maths & Machine Learning @ City University of Hong Kong · MSc Bioinformatics & Modeling @ INSA Lyon**  
-Medical AI · Representation Learning · Multimodal Learning · Quantitative Biology
+**Machine Learning Research · AI for Science**
 
----
+I am a Machine Learning Research Intern at the **University of Oxford**, working in the **Hallou Group** on deep learning methods for a physical inverse problem: inferring per-cell stress tensors directly from microscopy images.
 
-## 👋 About me
+My work focuses on local--global architectures, pretrained vision encoders, cross-attention, systematic ablations, and distributed multi-GPU experimentation on **Isambard-AI**.
 
-- 📍 Currently studying **Mathematics & Machine Learning** at **City University of Hong Kong (CityU HK)**  
-- 🎓 MSc in **Bioinformatics & Modeling** at **INSA Lyon** (bio + ML + quantitative methods)  
-- 🧠 Strong interest in **theoretical ML**, **representation learning**, and **multimodal models** for biomedical data  
-- 🌱 I like projects that sit at the intersection of **rigorous maths**, **ML engineering**, and **health/biology**
+Previously, I worked at **Inria** on transformer-based methods for biomedical text classification, named-entity recognition, and information extraction.
 
----
+I am currently completing an **MSc in Bioinformatics and Modeling at INSA Lyon**, following an exchange semester in **Mathematics and Machine Learning at City University of Hong Kong**.
 
-## 🎓 Education
+**Research interests:** representation learning, multimodal learning, scientific machine learning, and AI for biological and physical systems.
 
-- **City University of Hong Kong (CityU HK)** – Exchange, **Mathematics & Machine Learning** (2025–2026)  
-  Focus: probability & stochastic processes, optimization, statistical learning, deep learning, numerical analysis.
+**Available for a 6-month final internship starting January 2027.**
 
-- **INSA Lyon** – MSc in **Bioinformatics & Modeling** (2024–2027)  
-  Focus: bioinformatics, systems biology, statistics, machine learning for biomedical data.
+## Selected work
 
-- **IUT de Reims (URCA)** – Bachelor in Computer Science (2022–2024)  
-  Focus: algorithms, software engineering, databases, applied ML.
+- **Oxford research — ML for tissue mechanics**  
+  Developing and evaluating deep learning architectures to infer physical forces and per-cell stress tensors from cellular tissue images.
 
+- **[Axonet](https://github.com/williampeoch/axonet) — neural networks from scratch**  
+  A minimal automatic differentiation engine and multilayer perceptron implementation written in pure Python.
 
-## 🏆 Awards & Hackathons
+- **[Facial Composite](https://github.com/williampeoch/facial-composite) — generative modeling**  
+  A facial-composite generation system combining a variational autoencoder, latent-space search, and a genetic algorithm.
 
-- 🥇 **Mistral AI × Alan Hackathon – 1st Place & Best Pitch**  
-  Built an AI medical assistant with **image diagnostics** and **voice/chat** interface (150+ participants).  
+- **Mistral AI × Alan Hackathon — 1st Place and Best Pitch**  
+  Built a multimodal medical assistant combining image analysis, conversational AI, and voice interaction among 150+ participants.
 
-- 🧬 **Paris Bio × AI Hackathon**  
-  Fine-tuned **Pixtral-12B** on chest X-ray datasets to build a **medical report generation** system.  
+## Experience
 
-- ⚖️ **LLM × Law Hackathon**  
-  Developed an **IP-focused paralegal RAG system** using LLMs.  
+- **University of Oxford — Hallou Group** · Machine Learning Research Intern · 2026
+- **Inria** · Machine Learning Research Intern · 2025
+- **Axon' Cable, Medical Division** · Machine Learning Intern · 2024
 
-- 🎨 **Mistral Paris Hackathon**  
-  Fine-tuned **Mistral-7B** to generate **ASCII art**.  
+## Technical stack
 
----
+- **Machine learning:** PyTorch, torchvision, Hugging Face Transformers, scikit-learn
+- **Research engineering:** PyTorch DDP, Slurm, multi-GPU training, Linux, Docker, Git
+- **Scientific computing:** NumPy, pandas, SciPy, scikit-image
+- **Programming:** Python, C#, R, TypeScript, LaTeX
 
-## 🛠️ Technical Skills
+## Links
 
-- **Maths & ML**: Probability, statistics, linear algebra, optimization, deep learning, transformers, generative models  
-- **Bioinformatics**: Genomics, transcriptomics, NGS, RNA-seq, sequence analysis  
-- **Languages**: Python, R, TypeScript, C#, SQL  
-- **Ecosystem**: PyTorch, TensorFlow, HuggingFace, scikit-learn, NumPy, pandas, Docker, Git, Linux  
-
----
-
-## 🌐 Links & Contact
-
-- 🌐 Website: [williampeoch.me](https://williampeoch.me)  
-- 🐙 GitHub: William Peoc'h  
-- 💼 LinkedIn: William Peoc'h  
-- ✉️ Email: [william.peoch@insa-lyon.fr](mailto:william.peoch@insa-lyon.fr)
+[Website](https://williampeoch.me) · [LinkedIn](https://www.linkedin.com/in/william-peoc-h-ba208a268/) · [Email](mailto:william.peoch@insa-lyon.fr)
