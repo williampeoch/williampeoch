@@ -4,8 +4,6 @@
 
 I am a Machine Learning Research Intern at the **University of Oxford**, working in the **Hallou Group** on deep learning methods for a physical inverse problem: inferring per-cell stress tensors directly from microscopy images.
 
-My work focuses on local--global architectures, pretrained vision encoders, cross-attention, systematic ablations, and distributed multi-GPU experimentation on **Isambard-AI**.
-
 Previously, I worked at **Inria** on transformer-based methods for biomedical text classification, named-entity recognition, and information extraction.
 
 I am currently completing an **MSc in Bioinformatics and Modeling at INSA Lyon**, following an exchange semester in **Mathematics and Machine Learning at City University of Hong Kong**.
@@ -17,7 +15,7 @@ I am currently completing an **MSc in Bioinformatics and Modeling at INSA Lyon**
 ## Selected work
 
 - **Oxford research — ML for tissue mechanics**  
-  Developing and evaluating deep learning architectures to infer physical forces and per-cell stress tensors from cellular tissue images.
+  Developing an architecture to infer physical forces and per-cell stress tensors from cellular tissue images.
 
 - **[Axonet](https://github.com/williampeoch/axonet) — neural networks from scratch**  
   A minimal automatic differentiation engine and multilayer perceptron implementation written in pure Python.
