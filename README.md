@@ -40,7 +40,7 @@ Built a multimodal medical assistant combining image analysis, conversational AI
 
 ## Experience
 
-- **University of Oxford**, Hallou Group | ML Research Intern | 2026
+- **University of Oxford**, Hallou Group | ML Research Intern, then Research Collaborator | 2026 to present
 - **Inria** | ML Research Intern | 2025
 - **Axon' Cable, Medical Division** | ML Intern | 2024
 
