@@ -1,44 +1,56 @@
 # William Peoc'h
 
-**Machine Learning Research · AI for Science**
+**ML Research at the University of Oxford | AI for Science | Bioinformatics**
 
-I am a Machine Learning Research Intern at the **University of Oxford**, working in the **Hallou Group** on deep learning methods for a physical inverse problem: inferring per-cell stress tensors directly from microscopy images.
+I am currently an ML Research Intern in the Hallou Group at the **University of Oxford**. I develop DINO based vision models to infer cellular mechanics from microscopy images, and I use conditional flow matching to generate synthetic microscopy data. My work combines computer vision, representation learning, generative modeling, multi GPU training, and scientific experimentation.
 
-Previously, I worked at **Inria** on transformer-based methods for biomedical text classification, named-entity recognition, and information extraction.
+I am completing an **MSc in Bioinformatics at INSA Lyon**, a French engineering school. Previously, I worked at **Inria**, the French national research institute for digital science, on transformer models for biomedical text classification, named entity recognition, and information extraction.
 
-I am currently completing an **MSc in Bioinformatics and Modeling at INSA Lyon**, following an exchange semester in **Mathematics and Machine Learning at City University of Hong Kong**.
+My main interests are foundation models, generative modeling, computer vision, and AI for biological and physical systems.
 
-**Research interests:** representation learning, multimodal learning, scientific machine learning, and AI for biological and physical systems.
+**I am looking for a research internship lasting 6 months from February 2027.**
 
-**Available for a 6-month final internship starting January 2027.**
+## Current research
 
-## Selected work
+### University of Oxford | ML for tissue mechanics
 
-- **Oxford research — ML for tissue mechanics**  
-  Developing an architecture to infer physical forces and per-cell stress tensors from cellular tissue images.
+I am developing models that infer physical quantities at cell level from microscopy images. The project explores how visual representations and synthetic data can help solve an inverse problem in tissue mechanics.
 
-- **[Axonet](https://github.com/williampeoch/axonet) — neural networks from scratch**  
-  A minimal automatic differentiation engine and multilayer perceptron implementation written in pure Python.
+## Selected projects
 
-- **[Facial Composite](https://github.com/williampeoch/facial-composite) — generative modeling**  
-  A facial-composite generation system combining a variational autoencoder, latent-space search, and a genetic algorithm.
+### [BridgeFold](https://github.com/williampeoch/BridgeFold) | Generative modeling for proteins
 
-- **Mistral AI × Alan Hackathon — 1st Place and Best Pitch**  
-  Built a multimodal medical assistant combining image analysis, conversational AI, and voice interaction among 150+ participants.
+An early research exploration of flow matching for protein backbone generation. The current prototype implements a Transformer velocity model on fixed length C alpha traces and establishes the first single scale training baseline.
+
+### [zolaGPT](https://github.com/williampeoch/zolaGPT) | Transformer from scratch
+
+A character level Transformer language model implemented from scratch in PyTorch and trained on *L'Assommoir* by Emile Zola. The project focuses on understanding causal attention, residual blocks, positional embeddings, training, and autoregressive sampling.
+
+### [AIGC Detection](https://github.com/williampeoch/aigc-detection) | Computer vision
+
+A ViT and ConvNeXt ensemble for detecting generated images. The final submission reached a Kaggle score of **0.9968**, with image augmentations designed around compression and resizing artifacts.
+
+### [Facial Composite](https://github.com/williampeoch/facial-composite) | Generative modeling
+
+An interactive facial composite system combining a convolutional VAE, semantic filtering on CelebA, latent space search, and a genetic algorithm.
+
+### Mistral AI x Alan Hackathon | 1st place and best pitch
+
+Built a multimodal medical assistant combining image analysis, conversational AI, and voice interaction in a hackathon with more than 150 participants.
 
 ## Experience
 
-- **University of Oxford — Hallou Group** · Machine Learning Research Intern · 2026
-- **Inria** · Machine Learning Research Intern · 2025
-- **Axon' Cable, Medical Division** · Machine Learning Intern · 2024
+- **University of Oxford**, Hallou Group | ML Research Intern | 2026
+- **Inria** | ML Research Intern | 2025
+- **Axon' Cable, Medical Division** | ML Intern | 2024
 
 ## Technical stack
 
-- **Machine learning:** PyTorch, torchvision, Hugging Face Transformers, scikit-learn
-- **Research engineering:** PyTorch DDP, Slurm, multi-GPU training, Linux, Docker, Git
+- **ML:** PyTorch, torchvision, Hugging Face Transformers, scikit-learn
+- **Research engineering:** PyTorch DDP, Slurm, multi GPU training, Linux, Docker, Git
 - **Scientific computing:** NumPy, pandas, SciPy, scikit-image
 - **Programming:** Python, C#, R, TypeScript, LaTeX
 
 ## Links
 
-[Website](https://williampeoch.me) · [LinkedIn](https://www.linkedin.com/in/william-peoc-h-ba208a268/) · [Email](mailto:william.peoch@insa-lyon.fr)
+[Website](https://williampeoch.me) | [LinkedIn](https://www.linkedin.com/in/william-peoc-h-ba208a268/) | [Email](mailto:william.peoch@insa-lyon.fr)
