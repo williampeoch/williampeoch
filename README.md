@@ -22,10 +22,6 @@ I am developing models that infer physical quantities at cell level from microsc
 
 An early research exploration of flow matching for protein backbone generation. The current prototype implements a Transformer velocity model on fixed length C alpha traces and establishes the first single scale training baseline.
 
-### [zolaGPT](https://github.com/williampeoch/zolaGPT) | Transformer from scratch
-
-A character level Transformer language model implemented from scratch in PyTorch and trained on *L'Assommoir* by Emile Zola. The project focuses on understanding causal attention, residual blocks, positional embeddings, training, and autoregressive sampling.
-
 ### [AIGC Detection](https://github.com/williampeoch/aigc-detection) | Computer vision
 
 A ViT and ConvNeXt ensemble for detecting generated images. The final submission reached a Kaggle score of **0.9968**, with image augmentations designed around compression and resizing artifacts.
